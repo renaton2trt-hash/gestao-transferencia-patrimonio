@@ -8,7 +8,7 @@
 
 ## 📌 1. Contexto do Negócio
 
-A empresa utiliza o **Sistema Ágora** como ERP oficial de registro das movimentações patrimoniais entre filiais. No entanto, os relatórios gerados pelo Ágora são em arquivos **CSV/Excel soltos**, dificultando a consolidação das informações para a diretoria.
+A empresa utiliza o **Sistema Agora** como ERP oficial de registro das movimentações patrimoniais entre filiais. No entanto, os relatórios gerados pelo Ágora são em arquivos **CSV/Excel soltos**, dificultando a consolidação das informações para a diretoria.
 
 O objetivo deste projeto foi criar um **Pipeline de Dados (ETL)** em Python que lê automaticamente os relatórios exportados pelo Ágora, trata e limpa os dados (datas, tipos de valores e identificadores), armazena tudo em um banco de dados SQL (`bens_patrimoniais.db`) e fornece **dashboards e consultas analíticas para tomada de decisão**.
 
