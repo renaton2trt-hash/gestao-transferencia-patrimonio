@@ -84,4 +84,4 @@ portfolio-patrimonio/
 ---
 
 👤 **Autor:** [Seu Nome]  
-📧 **Contato:** [seu.email@exemplo.com] | [LinkedIn](https://linkedin.com)
+📧 **Contato:** [renato.n2.trt@gmail.com] | [LinkedIn](www.linkedin.com/in/renato-silva-pereira-analisededados)
