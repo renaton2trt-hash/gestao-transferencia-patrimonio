@@ -83,5 +83,5 @@ portfolio-patrimonio/
 
 ---
 
-👤 **Autor:** [Seu Nome]  
+👤 **Autor:** [Renato da Silva Pereira]  
 📧 **Contato:** [renato.n2.trt@gmail.com] | [LinkedIn](https://linkedin.com/in/renato-silva-pereira-analisededados)
