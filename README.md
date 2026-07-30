@@ -1,4 +1,4 @@
-# 🏢 Análise & Controle de Transferências de Bens Patrimoniais (Integrado ao Sistema Ágora)
+# 🏢 Análise & Controle de Transferências de Bens Patrimoniais (Integrado ao Sistema Agora)
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tech-Python%20%7C%20SQL%20%7C%20DBeaver%20%7C%20ETL-blue)
@@ -50,7 +50,7 @@ O objetivo deste projeto foi criar um **Pipeline de Dados (ETL)** em Python que 
 - O pipeline em Python reduz o tempo de preparação de dados de **4 horas semanais de Excel manual** para **poucos segundos de execução automatizada**.
 
 ### 💡 Insight 2: Concentração de Chamados e Movimentações
-- **70% das solicitações registradas no Ágora** referem-se à categoria de *Equipamentos de TI* (notebooks, monitores e servidores), impulsionadas pelo modelo de trabalho híbrido.
+- **70% das solicitações registradas no Agora** referem-se à categoria de *Equipamentos de TI* (notebooks, monitores e servidores), impulsionadas pelo modelo de trabalho híbrido.
 
 ---
 
@@ -72,7 +72,7 @@ portfolio-patrimonio/
 
 ---
 
-## 🏃 Como Executar o Pipeline do Ágora
+## 🏃 Como Executar o Pipeline do Agora
 
 1. Execute o script de ingestão em Python:
    ```bash
